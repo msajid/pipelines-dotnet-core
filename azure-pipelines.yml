@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: mybuildagent
+  name: Default
 
 variables:
   buildConfiguration: 'Release'
